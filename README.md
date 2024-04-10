@@ -30,4 +30,4 @@ In rare cases, i.e. when it is demonstrable that no other personal data is colle
 > It is still possible to use the information to generate an aggregate analysis on flows without having a way to associate the license plate or its hashed version with other data that could identify an individual.
 
 > [!CAUTION]
-> But if the system in the example above had such a capillarity of data collection that it could allow with reasonable certainty to understand the habits of a certain individual, despite not knowing his identity, it would fall within the scope of the GDPR.
+> But if the system in the example above had such a spatial and temporal capillarity of data collection that it could allow with reasonable certainty to understand the habits of a certain individual, despite not knowing his identity, it would fall within the scope of the GDPR.
