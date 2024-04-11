@@ -3,6 +3,9 @@ This project aims to offer a secure and efficient way to hash strings by keeping
 By hashing strings as a service, users can benefit from the security and reliability of the hashing process without having to manage the salt themselves.
 In fact there is no way for them to access to the salt used, unless they have access to the hosted service.
 
+![RESTer_example](https://github.com/aleppax/HashaaS/assets/6873524/19ad9e11-8830-4ab8-b04e-b606a9f55bd7)
+
+
 Plain or hashed strings are not stored in the server, but returned upon each request. The server encrypts the salt associated to an API key using an Initialization Vector stored in an environment variable.
 
 Hashing strings can be a technique to offer pseudonymity by transforming data into a fixed-length character series, known as a hash value. 
