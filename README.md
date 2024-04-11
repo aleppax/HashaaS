@@ -39,3 +39,15 @@ There are already many similar projects on Github, such as by:
 [EtaCassiopeia - hashing-as-a-service-cli](https://github.com/EtaCassiopeia/hashing-as-a-service-cli)
 
 and so on.
+
+## Usage
+
+> GET /hashaas.php
+
+with headers:
+
+> api-key: 1234567890123456
+
+> payload: OnceUponATime
+
+the response will be the hashed payload.
