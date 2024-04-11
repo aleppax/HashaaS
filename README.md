@@ -31,3 +31,11 @@ In rare cases, i.e. when it is demonstrable that no other personal data is colle
 
 > [!CAUTION]
 > But if the system in the example above had such a spatial and temporal capillarity of data collection that it could allow with reasonable certainty to understand the habits of a certain individual, despite not knowing his identity, it would fall within the scope of the GDPR.
+
+There are already many similar projects on Github, such as by:
+
+[adilakhter - hashing-as-a-service](https://github.com/adilakhter/hashing-as-a-service)
+
+[EtaCassiopeia - hashing-as-a-service-cli](https://github.com/EtaCassiopeia/hashing-as-a-service-cli)
+
+and so on.
