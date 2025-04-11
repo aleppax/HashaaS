@@ -33,7 +33,7 @@ if (!file_exists($saltFileName)) {
         fwrite($kfile, $encrypted_data);
         fclose($kfile);
     } else {
-        dye("Invalid key");
+        die("Invalid key");
     }
 } else {
     $encrypted_data = file_get_contents($saltFileName);
